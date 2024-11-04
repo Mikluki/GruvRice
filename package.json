@@ -1,10 +1,16 @@
 {
-  "name": "gruvrice",
+  "name": "gruv-rice",
   "displayName": "GruvRice",
   "description": "",
-  "version": "0.0.1",
+  "author": "mikluki (https://github.com/Mikluki)",
+  "publisher": "mikluki",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mikluki/GruvRice.git"
   },
   "categories": [
     "Themes"

@@ -78,3 +78,10 @@ Fork of the Gruvbox Material theme by [sainnhe](https://github.com/sainnhe/gruvb
 - **Xml:** builtin
 - **YAML:** builtin
 </details>
+
+
+## Installation
+```
+vsce package
+code --install-extension gruvbox-material-*.vsix
+```

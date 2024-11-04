@@ -325,14 +325,14 @@
     "menu.selectionForeground": "#d4be98",
     "menu.selectionBackground": "#32302f",
     "gitDecoration.addedResourceForeground": "#B0B846a0",
-    "gitDecoration.modifiedResourceForeground": "#80AA9Ea0",
+    "gitDecoration.modifiedResourceForeground": "#dea549",
     "gitDecoration.deletedResourceForeground": "#F2594Ba0",
-    "gitDecoration.untrackedResourceForeground": "#d8a657a0",
-    "gitDecoration.ignoredResourceForeground": "#5a524c",
+    "gitDecoration.untrackedResourceForeground": "#afffe8c6",
+    "gitDecoration.ignoredResourceForeground": "#9d9d9dde",
     "gitDecoration.conflictingResourceForeground": "#d3869ba0",
     "gitDecoration.submoduleResourceForeground": "#F28534a0",
-    "gitDecoration.stageDeletedResourceForeground": "#89b482a0",
-    "gitDecoration.stageModifiedResourceForeground": "#89b482a0",
+    "gitDecoration.stageDeletedResourceForeground": "#D3869B",
+    "gitDecoration.stageModifiedResourceForeground": "#afffe8c6",
     "notificationCenterHeader.foreground": "#ddc7a1",
     "notificationCenterHeader.background": "#504945",
     "notifications.foreground": "#d4be98",
@@ -1616,7 +1616,7 @@
     },
     {
       "name": "Rust orange",
-      "scope": "storage.type.rust",
+      "scope": "storage.type.rust, entity.name.type.rust",
       "settings": {
         "foreground": "#F28534"
       }
@@ -2360,14 +2360,14 @@
       "name": "JSON orange",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#F28534"
+        "foreground": "#80AA9E"
       }
     },
     {
       "name": "JSON green",
       "scope": "string.quoted.double.json",
       "settings": {
-        "foreground": "#B0B846"
+        "foreground": "#8BBA7F"
       }
     },
     {
