@@ -4,6 +4,8 @@
 ## Description
 Fork of the Gruvbox Material theme by [sainnhe](https://github.com/sainnhe/gruvbox-material-vscode)
 
+![image](https://github.com/user-attachments/assets/e07cc1ea-4602-4ce4-b7fc-5ed73f926cd8)
+
 ## Features
 
 - Notebook support.
